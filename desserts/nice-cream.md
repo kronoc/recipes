@@ -1,6 +1,6 @@
 # Nice Cream
 
-Vegan ice cream, serves 3. 
+Vegan ice cream, serves 3. The directions and ingredients are pretty flexible and open to experimentation.
 
 *vegan, ice-cream, dessert*
 
@@ -15,7 +15,7 @@ Vegan ice cream, serves 3.
 Flavouring Variations
 - Vanilla: *2* drops of vanilla extract
 - Chocolate: *2tsp* Cocoa Powder
-- Strawberry/Raspberry/Blueberry etc: Replace 2 bananas with a handful of frozen fruit
+- Strawberry/Raspberry/Blueberry etc: Replace a banana with a handful of frozen fruit and leave out the syrup.
 
 ---
 
