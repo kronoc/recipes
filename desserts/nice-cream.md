@@ -2,14 +2,14 @@
 
 Vegan ice cream, serves 3. 
 
-*tag1, tag2, tag3*
+*vegan, ice-cream, dessert*
 
-**4 servings, 1 kg**
+**3 servings**
 
 ---
 
 - *5* Bananas
-- *2tsp* Honey/Maple syrup/Golden syrup
+- *2tsp* Maple syrup/Golden syrup
 - *1tbsp* Dairy Free Milk (almond/oat/soya)
 
 Flavouring Variations
