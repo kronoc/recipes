@@ -16,9 +16,9 @@ Vegan version of the Irish tea bread - Barmbrack/Bairín Breac.
 - *2 tsp* Baking Powder
 - *1/2 tsp* Mixed Spice
 - One of the following to replace a beaten egg:
--- *2 tsp* psyllium husk powder 
--- *1 tsp* xanthan gum
--- *1 portion* egg replacement powder
+  - *2 tsp* psyllium husk powder 
+  - *1 tsp* xanthan gum
+  - *1 portion* egg replacement powder
    
 ---
 
