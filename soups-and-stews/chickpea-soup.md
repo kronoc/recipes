@@ -12,7 +12,7 @@ It is a soup.
 - *1l* stock
 - *400ml* hot water
 - *1 tin* drained chickpeas
-- *200g-300g* lentils
+- *200g-300g* red lentils
 - Half an onion
 - *3 tsp* mixed herbs/Italian herbs
 - *1 tsp* crushed garlic/garlic paste
@@ -25,8 +25,9 @@ It is a soup.
 
 ---
 
-Fry onions, garlic, tomato, herbs up for 5 mins
-Add the rest
-Cook till the lentils are done (20-30 mins simmer)
-Season, eat
+1. Fry onions, garlic, tomato, herbs up for 5 mins in some oil.
+1. Add the rest of the ingredients.
+1. Cook till the lentils are done (20-30 mins at simmer).
+1. Season to taste.
+1. Enjoy!
 
