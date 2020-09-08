@@ -19,9 +19,10 @@ Flavouring Variations
 
 ---
 
-Chop the bananas into large chunks and freeze.
-
-When frozen, blend in food processor, add the syrup and dairy-free milk and your choice of flavouring variation.
-Blend some more, it will pass through a pellet phase until suddenly becoming nice cream. 
+1. Chop the bananas into large chunks and freeze.
+1. When frozen, blend in food processor.
+1. Add the syrup and dairy-free milk.
+1. Add your choice of flavouring variation.
+1. Blend some more, it will pass through a pellet phase until suddenly becoming nice cream. 
 
 Can be served immediately, or re-frozen for eating later.
